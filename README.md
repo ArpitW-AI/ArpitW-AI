@@ -49,7 +49,7 @@ I specialize in **MLOps (Docker, Kubernetes, CI/CD, MLflow), AI Deployment, and 
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]( https://www.linkedin.com/in/arpit-waghamare?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 <!--[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-profile/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=flat&logo=web)](https://your-portfolio.com/)  -->
 
