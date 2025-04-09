@@ -38,7 +38,7 @@ I specialize in **MLOps (Docker, Kubernetes, CI/CD, MLflow), AI Deployment, and 
 </td>
 <td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitW-AIo&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitW-AI&layout=compact&theme=radical)
 
 </td>
 </tr>
