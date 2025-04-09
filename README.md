@@ -33,18 +33,18 @@ I specialize in **MLOps (Docker, Kubernetes, CI/CD, MLflow), AI Deployment, and 
 <tr>
 <td>
 
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpitW-zero-hero&show_icons=true&theme=radical)
+![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpitW-AI&show_icons=true&theme=radical)
 
 </td>
 <td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitW-zero-hero&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitW-AIo&layout=compact&theme=radical)
 
 </td>
 </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=ArpitW-zero-hero&color=blue)
+![](https://komarev.com/ghpvc/?username=ArpitW-AI&color=blue)
 
 ---
 
